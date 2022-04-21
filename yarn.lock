@@ -5797,10 +5797,10 @@ negotiator@0.6.2:
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.2.tgz#feacf7ccf525a77ae9634436a64883ffeca346fb"
   integrity sha512-hZXc7K2e+PgeI1eDBe/10Ard4ekbfrrqG8Ep+8Jmf4JID2bNg7NvCPOZN+kfF574pFQI7mum2AUqDidoKqcTOw==
 
-next-page-tester@0.31.0:
-  version "0.31.0"
-  resolved "https://registry.yarnpkg.com/next-page-tester/-/next-page-tester-0.31.0.tgz#d53a2c4d8aed29f0cac886ab922390a2b0a38fe0"
-  integrity sha512-omubLEI67qQNHuiIc/oDM0FhIpreXCCc7iFYKM6CCKOp4XNIWNkJ7XCu5nt6wVfEdhjODvFS7RhwGD5XTeQElg==
+next-page-tester@0.32.0:
+  version "0.32.0"
+  resolved "https://registry.yarnpkg.com/next-page-tester/-/next-page-tester-0.32.0.tgz#5bddce2518518dbd0dbf6a6432dbfda4895da12a"
+  integrity sha512-fBqHrI8SVZpO2TYPSv+a3NTrGF7kOJCzDQwpx2RtOnOlrvlllDBzEnDmJ6Dl+M7ujPUw2RDxvfM5fjWotgRNXA==
   dependencies:
     "@types/express" "^4.17.13"
     cookie "^0.4.1"
