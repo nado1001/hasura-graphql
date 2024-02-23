@@ -36,7 +36,7 @@
     "@types/jest": "27.4.1",
     "@types/react": "17.0.44",
     "babel-jest": "27.5.1",
-    "eslint": "8.13.0",
+    "eslint": "8.57.0",
     "eslint-config-next": "12.1.5",
     "jest": "27.5.1",
     "jest-css-modules": "2.1.0",
