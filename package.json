@@ -34,7 +34,7 @@
     "@testing-library/react": "12.1.4",
     "@testing-library/user-event": "13.5.0",
     "@types/jest": "27.4.1",
-    "@types/react": "17.0.44",
+    "@types/react": "17.0.80",
     "babel-jest": "27.5.1",
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.5",
